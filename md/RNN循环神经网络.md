@@ -2,11 +2,14 @@
  * @Author: matiastang
  * @Date: 2021-12-15 11:39:23
  * @LastEditors: matiastang
- * @LastEditTime: 2021-12-20 14:59:46
+ * @LastEditTime: 2022-08-04 11:13:16
  * @FilePath: /matias-AI/md/RNN循环神经网络.md
  * @Description: 循环神经网络
 -->
 # 循环神经网络
+
+[LSTM和GRU的解析从未如此通俗易懂（动图）](http://www.360doc.com/content/19/0330/20/7669533_825345291.shtml)
+
 ## 循环神经网络的发展简史
 循环神经网络（RNN，Recurrent Neural Network）的历史可以简单概括如下：
 
