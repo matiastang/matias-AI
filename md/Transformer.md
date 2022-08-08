@@ -2,13 +2,17 @@
  * @Author: matiastang
  * @Date: 2022-08-04 16:32:28
  * @LastEditors: matiastang
- * @LastEditTime: 2022-08-04 17:13:53
+ * @LastEditTime: 2022-08-05 10:34:26
  * @FilePath: /matias-AI/md/Transformer.md
  * @Description: Transformer
 -->
 # Transformer
 
 [transformer](https://arxiv.org/pdf/1706.03762.pdf)
+[重要论文-Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+![矩阵形式的self-attention计算](../md/images/矩阵形式的self-attention计算.png)
+其中`T`是变量，及`Kt`为单词的对应的`K`矩阵
 
 ## Encoder-Decoder
 
